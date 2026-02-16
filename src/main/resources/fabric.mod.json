@@ -23,7 +23,7 @@
   "depends": {
     "fabric": "*",
     "fabricloader": "*",
-    "minecraft": "${mod_target_mc}"
+    "minecraft": "1.21.1"
   },
   "recommends": {
     "modmenu": "*",
